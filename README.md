@@ -1,5 +1,5 @@
 
-### Komal 's File for DS and Gen AI 
+###  File for DS and Gen AI 
 # 🐍 Python Scripts Collection
 
 Welcome to my **Python Projects Repository**!  
